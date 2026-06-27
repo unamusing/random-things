@@ -1,4 +1,4 @@
---// this isthe analytics from https://developer.sirius.menu/ can be used without using rayfield
+--// analytics from https://developer.sirius.menu/ but no rayfield
 
 cloneref = cloneref or function(obj) return obj end
 
