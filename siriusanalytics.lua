@@ -1,3 +1,5 @@
+--// this is so you can use the analytics from https://developer.sirius.menu/ without using rayfield
+
 cloneref = cloneref or function(obj) return obj end
 
 local UserInputService = cloneref(game:GetService("UserInputService"))
